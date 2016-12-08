@@ -1,0 +1,29 @@
+List of items to try and cover: 
+
+1. Learning a language?
+	Python
+	Ruby
+	PowerShell
+
+2. Infrastructure as Code and Configuration Managment Tools
+	Chef
+	Puppet
+	Ansible
+	Salt Stack
+
+3. Developer Lingo?
+
+4. Understanding Git and why it isnt' just for developers
+	What is Git
+	GitHub and social coding
+	Playing with GitLabs? 
+
+5. Containers
+	Why you should know Docker?
+
+6. Community
+	Where to go when you have questions
+	Why OpenSource is a good thing? 
+	The Pub! 
+
+
